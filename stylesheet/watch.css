@@ -1,0 +1,39 @@
+main p {
+    text-align: justify;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+main a {
+    color: red;
+    text-decoration: none;
+    
+}
+
+#stream1 iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+#server {
+    width: 25%;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white
+    ;
+}
+
+#server a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#server a:hover {
+    color: red;
+}
